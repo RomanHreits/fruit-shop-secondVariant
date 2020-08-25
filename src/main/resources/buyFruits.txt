@@ -1,0 +1,3 @@
+type,fruit,quantity,date
+b,banana,100,2020-10-15
+b,orange,100,2020-10-15
